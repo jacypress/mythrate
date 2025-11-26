@@ -1,4 +1,4 @@
-# mythrate
+# Mythrate
 Rarity data generator for NFT collections
 
 ## Download
