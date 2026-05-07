@@ -1,19 +1,19 @@
 # Mythrate
-Rarity data generator for NFT collections
+NFT rarity data generator for Windows
 
 ## Download
-Get the latest version from the [Releases page](https://github.com/jacypress/mythrate/releases)
+Get the latest version from the [Releases](https://github.com/jacypress/mythrate/releases) page
 
 ## Features
 - Multi-method rarity calculation (Averaged, Weighted, Statistical)
-- Professional JSON/CSV exports with enhanced metadata  
+- JSON/CSV exports with enhanced metadata
 - Project save/load functionality
-- Enterprise-grade license management
 - Auto-update system
+- Completely free, no license required
 
 ## Support
-- Website: https://mythrate.com
-- Support: https://discord.gg/rn8g2TwxzD
+- [Website](https://mythrate.com)
+- [Discord](https://discord.gg/rn8g2TwxzD)
 
 ## License
-Proprietary software © 2025 Jacy Press
+© Jacy Press
